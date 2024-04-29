@@ -2,16 +2,16 @@
   {
     "Nombre": "Padrenuestro",
     "Idioma": "Esp",
-    "Oracion": "Padre Nuestro, que estás en el cielo, santificado sea tu Nombre. Venga a nosotros tu Reino. Hágase tu Voluntad en la tierra como en el Cielo. Danos hoy nuestro pan de cada día. Perdona nuestras ofensas así como nosotros perdonamos a los que nos ofenden. No nos dejes caer en la tentación y líbranos del mal. Amén"
+    "Texto": "Padre Nuestro, que estás en el cielo, santificado sea tu Nombre. Venga a nosotros tu Reino. Hágase tu Voluntad en la tierra como en el Cielo. Danos hoy nuestro pan de cada día. Perdona nuestras ofensas así como nosotros perdonamos a los que nos ofenden. No nos dejes caer en la tentación y líbranos del mal. Amén"
   },
   {
     "Nombre": "Ave María",
     "Idioma": "Esp",
-    "Oracion": "Dios te salve, María, llena eres de Gracia. El Señor es contigo. Bendita tú eres entre todas las mujeres y Bendito es el Fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén"
+    "Texto": "Dios te salve, María, llena eres de Gracia. El Señor es contigo. Bendita tú eres entre todas las mujeres y Bendito es el Fruto de tu vientre, Jesús. Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén"
   },
   {
     "Nombre": "Gloria",
     "Idioma": "Esp",
-    "Oracion": "Gloria al Padre y al Hijo y al Espíritu Santo, como era en el Principio ahora y siempre, por los siglos de los siglos. Amén"
+    "Texto": "Gloria al Padre y al Hijo y al Espíritu Santo, como era en el Principio ahora y siempre, por los siglos de los siglos. Amén"
   }
 ]
